@@ -8,10 +8,7 @@
 body{
     
     background-image: url('background.jpeg') ;
-    background-repeat: no-repeat;
-    background-size: cover;
-   
-   
+    
 }
 .fix{
     border:2px solid white;
